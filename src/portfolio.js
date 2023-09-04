@@ -166,7 +166,7 @@ const workExperiences = {
       company: "Zweidevs",
       companylogo: require("./assets/images/zwei.jpeg"),
       date: "September 2023 – Present",
-      desc:"At Zweidevs, I serve as a Software Engineer, specializing in Django web development.I've been committed to crafting robust and scalable web applications. Leveraging the power of Django, I create efficient solutions and prioritize delivering exceptional user experiences. My passion lies in writing high-quality code and contributing to the world of web development. Let's connect and collaborate on building great software together!"
+      desc:"At Zweidevs, I serve as a Software Engineer, specializing in Django web development.I've been committed to crafting robust and scalable web applications. Leveraging the power of Django, I create efficient solutions and prioritize delivering exceptional user experiences."
     },
     {
       role: "Trainee Python Developer",
