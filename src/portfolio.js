@@ -313,7 +313,7 @@ const blogSection = {
         "Master asynchronous task scheduling in FastAPI with schedulinx for real-time web app excellence! 🚀📅"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: true 
 };
 
 // Talks Sections
