@@ -304,7 +304,7 @@ const blogSection = {
   title: "Blogs",
   subtitle:
     "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
-  displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
+  displayMediumBlogs: true, // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
       url: "https://medium.com/@bsce19021/fastapi-scheduling-with-async-python-using-schedulinx-df4152b73ddd",
